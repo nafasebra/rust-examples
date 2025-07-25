@@ -62,18 +62,6 @@ for dir in */; do
 done
 ```
 
-## Learning Path
-
-The projects are numbered in a suggested learning order:
-
-1. Start with **Duplicate String** to understand basic Rust syntax
-2. Move to **Guess Number** for interactive programming concepts
-3. Try **Birthday Calculator** for date handling
-4. Explore **Simple Calculator** for mathematical operations
-5. Build **Task List** for data structure concepts
-6. Learn **File Line Counter** for file I/O
-7. Practice **String Reverser** for algorithm implementation
-
 ## Features
 
 - **Self-contained**: Each project has its own `Cargo.toml` and dependencies
