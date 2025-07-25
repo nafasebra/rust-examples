@@ -1,0 +1,3 @@
+Hello
+How are you
+This is a rust mini-project that i developed it.
